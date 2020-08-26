@@ -122,3 +122,7 @@ body{
     margin-left: -5px;
     transform: scale(2);
 }
+
+@-ms-viewport{
+  width: device-width;
+}
